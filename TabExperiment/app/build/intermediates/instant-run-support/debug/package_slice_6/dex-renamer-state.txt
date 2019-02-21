@@ -1,0 +1,4 @@
+#Thu Feb 21 12:05:18 EST 2019
+base.0=C\:\\Users\\Brett\\Desktop\\Lab4\\TabExperiment\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
